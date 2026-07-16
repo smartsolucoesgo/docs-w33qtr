@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-nk5dxg.echef.co.il/sitemap.xml
